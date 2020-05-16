@@ -88,7 +88,7 @@ _will segfault if vulnerable_
 + Metasploit Exploit Module - [Dhclient Bash Environment Variable Injection (Shellshock)](https://github.com/rapid7/metasploit-framework/blob/master/modules/exploits/unix/dhcp/bash_environment.rb)
 + Metasploit Auxiliary Module - https://github.com/rapid7/metasploit-framework/blob/master/modules/auxiliary/server/dhclient_bash_env.rb
 + Perl Script - http://pastebin.com/S1WVzTv9
-+ using a Wi-Fi pineapple to force people to join the network - http://d.uijn.nl/?p=32
++ using a Wi-Fi pineapple to force people to join the network - https://d.uijn.nl/2014/10/01/combining-shellshock-with-my-wi-fi-pineapple/
 
 ## SSH
 + Stack Overflow - http://unix.stackexchange.com/questions/157477/how-can-shellshock-be-exploited-over-ssh
